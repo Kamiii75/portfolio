@@ -1,0 +1,6 @@
+package com.dartsync.protfolio
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
