@@ -1,6 +1,6 @@
 import 'package:google_fonts/google_fonts.dart';
 import 'package:neumorphic_ui/neumorphic_ui.dart';
-import 'package:protfolio/ui/view/home.dart';
+import 'package:portfolio/ui/view/home.dart';
 
 
 

@@ -1,5 +1,5 @@
 import 'package:neumorphic_ui/neumorphic_ui.dart';
-import 'package:protfolio/core/constants/const_colors.dart';
+import 'package:portfolio/core/constants/const_colors.dart';
 
 import '../../core/constants/const_neumorphic.dart';
 

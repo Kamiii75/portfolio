@@ -1,5 +1,5 @@
-import 'package:protfolio/core/constants/const_texts.dart';
-import 'package:protfolio/core/models/model_project.dart';
+import 'package:portfolio/core/constants/const_texts.dart';
+import 'package:portfolio/core/models/model_project.dart';
 
 class AppData {
   static List<ModelProject> projectLists = [

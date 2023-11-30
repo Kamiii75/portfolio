@@ -1,7 +1,7 @@
 import 'package:icons_plus/icons_plus.dart';
 import 'package:neumorphic_ui/neumorphic_ui.dart';
-import 'package:protfolio/core/constants/const_colors.dart';
-import 'package:protfolio/core/models/model_project.dart';
+import 'package:portfolio/core/constants/const_colors.dart';
+import 'package:portfolio/core/models/model_project.dart';
 
 import '../../core/constants/const_neumorphic.dart';
 import 'circle_icon_button.dart';

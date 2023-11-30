@@ -1,9 +1,9 @@
 import 'dart:developer';
 
 import 'package:flutter/material.dart';
-import 'package:protfolio/ui/view/tabs/experiences.dart';
-import 'package:protfolio/ui/view/tabs/projects.dart';
-import 'package:protfolio/ui/view/tabs/skills.dart';
+import 'package:portfolio/ui/view/tabs/experiences.dart';
+import 'package:portfolio/ui/view/tabs/projects.dart';
+import 'package:portfolio/ui/view/tabs/skills.dart';
 
 import '../../../core/constants/const_colors.dart';
 import '../tabs/about_me.dart';

@@ -1,6 +1,6 @@
-# protfolio
+# portfolio
 
-A new Flutter project.
+PortFolio Project
 
 ## Getting Started
 

@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:icons_plus/icons_plus.dart';
 import 'package:neumorphic_ui/neumorphic_ui.dart';
-import 'package:protfolio/ui/widgets/image_viewer.dart';
+import 'package:portfolio/ui/widgets/image_viewer.dart';
 import '../../../core/constants/const_colors.dart';
 import '../../../core/constants/const_neumorphic.dart';
 import '../../widgets/default_text.dart';

@@ -2,7 +2,7 @@ import 'dart:math';
 import 'dart:ui' as ui;
 
 import 'package:flutter/material.dart';
-import 'package:protfolio/core/utils/timeline/style.dart';
+import 'package:portfolio/core/utils/timeline/style.dart';
 
 import 'axis.dart';
 

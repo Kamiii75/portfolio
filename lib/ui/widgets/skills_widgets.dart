@@ -1,5 +1,5 @@
 import 'package:neumorphic_ui/neumorphic_ui.dart';
-import 'package:protfolio/ui/widgets/pie_timer/neu_progress_pie_bar.dart';
+import 'package:portfolio/ui/widgets/pie_timer/neu_progress_pie_bar.dart';
 
 import '../../core/constants/const_colors.dart';
 import '../../core/constants/const_neumorphic.dart';

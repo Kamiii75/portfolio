@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:neumorphic_ui/neumorphic_ui.dart';
-import 'package:protfolio/core/constants/const_neumorphic.dart';
+import 'package:portfolio/core/constants/const_neumorphic.dart';
 
 import '../../core/constants/const_colors.dart';
 

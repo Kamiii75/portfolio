@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:neumorphic_ui/neumorphic_ui.dart';
-import 'package:protfolio/core/constants/const_neumorphic.dart';
-import 'package:protfolio/ui/widgets/skills_widgets.dart';
+import 'package:portfolio/core/constants/const_neumorphic.dart';
+import 'package:portfolio/ui/widgets/skills_widgets.dart';
 import '../../../core/constants/const_colors.dart';
 import '../../widgets/default_text.dart';
 import '../../widgets/pie_timer/neu_progress_pie_bar.dart';

@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:neumorphic_ui/neumorphic_ui.dart';
-import 'package:protfolio/core/constants/const_colors.dart';
-import 'package:protfolio/core/constants/const_neumorphic.dart';
-import 'package:protfolio/ui/widgets/default_text.dart';
+import 'package:portfolio/core/constants/const_colors.dart';
+import 'package:portfolio/core/constants/const_neumorphic.dart';
+import 'package:portfolio/ui/widgets/default_text.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class WatchResumeClip extends StatelessWidget {

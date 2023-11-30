@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:protfolio/core/constants/app_data.dart';
-import 'package:protfolio/ui/widgets/project_tile.dart';
+import 'package:portfolio/core/constants/app_data.dart';
+import 'package:portfolio/ui/widgets/project_tile.dart';
 
 class ProjectGrid extends StatelessWidget {
   final int crossAxisCount;

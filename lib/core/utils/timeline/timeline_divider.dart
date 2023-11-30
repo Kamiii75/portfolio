@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:protfolio/core/utils/timeline/tile.dart';
+import 'package:portfolio/core/utils/timeline/tile.dart';
 
 /// This is a port from the original [Divider].
 /// Except that this one allows to define the start and end

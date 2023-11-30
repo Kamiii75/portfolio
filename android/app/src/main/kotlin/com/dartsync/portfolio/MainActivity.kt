@@ -1,4 +1,4 @@
-package com.dartsync.protfolio
+package com.dartsync.portfolio
 
 import io.flutter.embedding.android.FlutterActivity
 
